@@ -5,7 +5,7 @@
 */
 console.clear(); //Irá limpar o terminal para você
 const resposta = 0; //insira o valor da final variável 'estudo' aqui
-let estudo = 10;
+let estudo = 43;
 const multiplicador = 2;
 
 if (estudo === 10) {
@@ -28,4 +28,8 @@ if (estudo === resposta) {
   Comente o código como foi a manipulação dos valores
   ex:
   let estudo = 1 //aqui foi feita a atribuição no escopo global
+*/
+
+/*
+Resposta:Você acertou!
 */

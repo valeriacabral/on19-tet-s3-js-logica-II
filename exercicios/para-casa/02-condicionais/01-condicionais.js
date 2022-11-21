@@ -5,8 +5,8 @@
 */
 console.clear(); //Irá limpar o terminal para você
 
-const resposta = 20;
-const estudo = 10;
+const resposta = 50;
+const estudo = 30;
 
 if (estudo === resposta) { // mexa apenas aqui
   console.log("\nVocê acertou!\n");
@@ -19,4 +19,8 @@ if (estudo === resposta) { // mexa apenas aqui
   Comente o código como foi a manipulação dos valores
   ex:
   if (estudo !== resposta) { //as variáveis devem ser diferentes para entrar no if
+*/
+
+/*
+Reesposta:Você acertou!
 */

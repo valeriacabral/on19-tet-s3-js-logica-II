@@ -8,7 +8,7 @@ console.clear(); //Irá limpar o terminal para você
 
 //Ceda meia entrada para quem não for adulto
 let adulto = false;
-let valorEntrada = 10;
+let valorEntrada = 60;
 let valorMeiaEntrada;
 
 if (adulto) { // mexa apenas aqui

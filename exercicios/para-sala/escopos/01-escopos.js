@@ -1,11 +1,11 @@
 console.clear();
 
-let nome = "Giu";
+let nome = "Valéria Cabral";
 
 {
-  nome = "Gabriela";
+  nome = "Stephanie";
   {
-    let nome = "João";
+    let nome = "André";
     console.log("1", nome)
   }
 }

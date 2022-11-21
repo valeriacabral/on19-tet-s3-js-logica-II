@@ -4,11 +4,11 @@
   ex: const resposta = 5;
 */
 console.clear(); //Irá limpar o terminal para você
-const resposta = 0; //insira o valor da final variável 'estudo' aqui
-let estudo = 10;
+const resposta = 1; //insira o valor da final variável 'estudo' aqui
+let estudo = 20;
 const multiplicador = 2;
 
-estudo = 1;
+estudo = 2;
 
 estudo = multiplicador * estudo;
 
@@ -16,12 +16,12 @@ estudo = estudo * estudo / estudo;
 
 estudo = estudo - multiplicador;
 
-estudo += 2;
+estudo += 3;
 
-estudo /= 2;
+estudo /= 3;
 
 {
-  let estudo = 6;
+  let estudo = 9;
 }
 
 if (estudo === resposta) {
@@ -35,4 +35,7 @@ if (estudo === resposta) {
   Comente o código como foi a manipulação dos valores
   ex:
   let estudo = 1 //aqui foi feita a atribuição no escopo global
+*/
+/*
+Resposta:Você acertou!
 */
